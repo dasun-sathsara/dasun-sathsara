@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dasunsathsaralk" target="blank"><img src="https://img.shields.io/twitter/follow/dasunsathsaralk?logo=twitter&style=for-the-badge" alt="dasunsathsaralk" /></a> </p>
 
-- 🌱 I’m currently learning **Python, JavaScript, Dart, Flutter Bash Scripting, Web Scraping & Crawling**
+- 🌱 I’m currently learning **Python, JavaScript, Dart, Flutter, Bash Scripting, Web Scraping & Crawling**
 
 - 📫 How to reach me: **me@dasunsathsara.com**
 
