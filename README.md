@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning: **C++, React, TailwindCSS**
 
-- 📝 I never write on my blog: [infotechguides.com](infotechguides.com)
-
 - 💬 Ask me about: **Python, TypeScript, Flutter, Dart**
+
+- 📝 I never write on my blog: [infotechguides.com](infotechguides.com)
 
 - 📫 How to reach me: **me@dasunsathsara.com**
 
