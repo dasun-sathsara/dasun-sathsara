@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/dasunsathsaralk" target="blank"><img src="https://img.shields.io/twitter/follow/dasunsathsaralk?logo=twitter&style=for-the-badge" alt="dasunsathsaralk" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Design Patterns**
+- 🌱 I’m currently learning: **NextJS**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about: **Python**
 
 - 📫 How to reach me **me@dasunsathsara.com**
 
